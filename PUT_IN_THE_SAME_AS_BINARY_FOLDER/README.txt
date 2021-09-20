@@ -1,6 +1,6 @@
 +-------------------------------+
 | AutoLikeSender4 for Instagram |
-|https://instagram.com/m_fright5|
+|https://twitter.com/m_fright   |
 +-------------------------------+
 
 ■1.本ツールの目的
