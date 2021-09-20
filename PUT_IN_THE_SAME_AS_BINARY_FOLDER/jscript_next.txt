@@ -1,0 +1,5 @@
+//ƒ{ƒ^ƒ“ˆê——Žæ“¾
+var buttons = document.getElementsByClassName(' _65Bje  coreSpriteRightPaginationArrow'); 
+
+
+buttons[0].click();

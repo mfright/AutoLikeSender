@@ -1,0 +1,7 @@
+//ƒ{ƒ^ƒ“ˆê——Žæ“¾
+var buttons = document.getElementsByClassName('eLAPa'); 
+
+var parent = buttons[0].parentNode;
+
+buttons[24].click();
+

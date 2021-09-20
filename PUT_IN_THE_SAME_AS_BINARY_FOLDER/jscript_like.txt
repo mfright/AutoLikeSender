@@ -1,0 +1,19 @@
+//ボタン一覧取得
+var buttons = document.getElementsByClassName('wpO6b '); 
+
+// ボタンごとに
+for(var i=0; i<buttons.length; i++){
+	
+	
+	
+	// いいねのボタンである。
+	if(buttons[i].innerHTML.indexOf('いいね！') > -1){
+		
+		// 未いいね時のみクリックする
+		if(buttons[i].innerHTML.indexOf('6.1c5.7') > -1){
+			buttons[i].click();
+		}
+		
+		break;
+	}
+}
